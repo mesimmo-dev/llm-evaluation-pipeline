@@ -1,0 +1,12 @@
+[
+  {
+    "id": "response_1",
+    "prompt": "Explain why structured evaluation matters in AI systems.",
+    "output": "Structured evaluation matters because AI outputs can vary in quality, tone, and reliability. A framework helps make comparison more consistent."
+  },
+  {
+    "id": "response_2",
+    "prompt": "Explain why structured evaluation matters in AI systems.",
+    "output": "Evaluation provides a repeatable way to assess whether outputs are accurate, useful, and aligned with intended goals."
+  }
+]
